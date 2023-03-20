@@ -1,0 +1,9 @@
+# golang
+ankh/ankh
+release/
+coverage/*
+!coverage/.gitkeep
+coverage.txt
+
+# IDE
+.idea/

@@ -1,0 +1,3 @@
+---
+# Chart: test_chart
+helm inspect chart /tmp/ankh
